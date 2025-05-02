@@ -70,10 +70,7 @@ public class MetadataValidatorUtil {
                         }
                     }
 
-                    // Numeric validations
-                    if (value instanceof Number numberValue) {
-                        // Add range validations if needed
-                    }
+
                 }
             } catch (NoSuchFieldException e) {
                 throw new IllegalArgumentException(
