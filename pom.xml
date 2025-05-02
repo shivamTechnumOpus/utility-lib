@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>com.example</groupId>
-	<artifactId>util</artifactId>
+	<artifactId>utility-lib</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>util</name>
 	<description>Demo project for Spring Boot</description>
